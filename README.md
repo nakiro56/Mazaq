@@ -40,7 +40,6 @@ My journey in computer engineering during my internship and as an IT Major Incid
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/03dece12-4452-4cb9-9ddb-3c332752707c/linked_in_profile" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Cisco&color=1BA0D7&logo=Cisco&logoColor=FFFFFF&label=">
